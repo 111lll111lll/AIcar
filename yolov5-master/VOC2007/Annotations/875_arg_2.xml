@@ -1,0 +1,21 @@
+<annotation>
+  <folder>after_argument</folder>
+  <filename>875_arg_2.jpg</filename>
+  <path>875_arg_2.jpg</path>
+  <source/>
+  <database>Unknown</database>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>green_go</name>
+    <bndbox>
+      <xmin>705</xmin>
+      <ymin>392</ymin>
+      <xmax>747</xmax>
+      <ymax>483</ymax>
+    </bndbox>
+  </object>
+</annotation>

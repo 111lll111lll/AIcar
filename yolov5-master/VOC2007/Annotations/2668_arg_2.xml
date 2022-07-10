@@ -1,0 +1,21 @@
+<annotation>
+  <folder>after_argument</folder>
+  <filename>2668_arg_2.jpg</filename>
+  <path>2668_arg_2.jpg</path>
+  <source/>
+  <database>Unknown</database>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>pedestrian_crossing</name>
+    <bndbox>
+      <xmin>279</xmin>
+      <ymin>614</ymin>
+      <xmax>812</xmax>
+      <ymax>702</ymax>
+    </bndbox>
+  </object>
+</annotation>

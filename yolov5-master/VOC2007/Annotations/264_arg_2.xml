@@ -1,0 +1,30 @@
+<annotation>
+  <folder>after_argument</folder>
+  <filename>264_arg_2.jpg</filename>
+  <path>264_arg_2.jpg</path>
+  <source/>
+  <database>Unknown</database>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>pedestrian_crossing</name>
+    <bndbox>
+      <xmin>974</xmin>
+      <ymin>589</ymin>
+      <xmax>1249</xmax>
+      <ymax>629</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>yellow_back</name>
+    <bndbox>
+      <xmin>517</xmin>
+      <ymin>146</ymin>
+      <xmax>631</xmax>
+      <ymax>383</ymax>
+    </bndbox>
+  </object>
+</annotation>

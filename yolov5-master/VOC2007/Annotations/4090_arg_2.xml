@@ -1,0 +1,30 @@
+<annotation>
+  <folder>after_argument</folder>
+  <filename>4090_arg_2.jpg</filename>
+  <path>4090_arg_2.jpg</path>
+  <source/>
+  <database>Unknown</database>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>speed_unlimited</name>
+    <bndbox>
+      <xmin>185</xmin>
+      <ymin>287</ymin>
+      <xmax>326</xmax>
+      <ymax>428</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>red_stop</name>
+    <bndbox>
+      <xmin>1157</xmin>
+      <ymin>92</ymin>
+      <xmax>1279</xmax>
+      <ymax>362</ymax>
+    </bndbox>
+  </object>
+</annotation>

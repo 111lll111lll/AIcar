@@ -1,0 +1,30 @@
+<annotation>
+  <folder>after_argument</folder>
+  <filename>3920_arg_2.jpg</filename>
+  <path>3920_arg_2.jpg</path>
+  <source/>
+  <database>Unknown</database>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>green_go</name>
+    <bndbox>
+      <xmin>381</xmin>
+      <ymin>346</ymin>
+      <xmax>433</xmax>
+      <ymax>479</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>yellow_back</name>
+    <bndbox>
+      <xmin>723</xmin>
+      <ymin>412</ymin>
+      <xmax>760</xmax>
+      <ymax>493</ymax>
+    </bndbox>
+  </object>
+</annotation>

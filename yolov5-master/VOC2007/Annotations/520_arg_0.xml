@@ -1,0 +1,21 @@
+<annotation>
+  <folder>after_argument</folder>
+  <filename>520_arg_0.jpg</filename>
+  <path>520_arg_0.jpg</path>
+  <source/>
+  <database>Unknown</database>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>speed_limited</name>
+    <bndbox>
+      <xmin>1042</xmin>
+      <ymin>174</ymin>
+      <xmax>1266</xmax>
+      <ymax>409</ymax>
+    </bndbox>
+  </object>
+</annotation>

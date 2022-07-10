@@ -1,0 +1,30 @@
+<annotation>
+  <folder>after_argument</folder>
+  <filename>3220_arg_1.jpg</filename>
+  <path>3220_arg_1.jpg</path>
+  <source/>
+  <database>Unknown</database>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>pedestrian_crossing</name>
+    <bndbox>
+      <xmin>941</xmin>
+      <ymin>563</ymin>
+      <xmax>1265</xmax>
+      <ymax>597</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>speed_unlimited</name>
+    <bndbox>
+      <xmin>716</xmin>
+      <ymin>323</ymin>
+      <xmax>813</xmax>
+      <ymax>453</ymax>
+    </bndbox>
+  </object>
+</annotation>

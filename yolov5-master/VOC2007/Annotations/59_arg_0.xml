@@ -1,0 +1,21 @@
+<annotation>
+  <folder>after_argument</folder>
+  <filename>59_arg_0.jpg</filename>
+  <path>59_arg_0.jpg</path>
+  <source/>
+  <database>Unknown</database>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>speed_unlimited</name>
+    <bndbox>
+      <xmin>88</xmin>
+      <ymin>98</ymin>
+      <xmax>322</xmax>
+      <ymax>335</ymax>
+    </bndbox>
+  </object>
+</annotation>

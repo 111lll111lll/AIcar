@@ -1,0 +1,30 @@
+<annotation>
+  <folder>after_argument</folder>
+  <filename>3834_arg_2.jpg</filename>
+  <path>3834_arg_2.jpg</path>
+  <source/>
+  <database>Unknown</database>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>green_go</name>
+    <bndbox>
+      <xmin>972</xmin>
+      <ymin>342</ymin>
+      <xmax>1048</xmax>
+      <ymax>465</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>red_stop</name>
+    <bndbox>
+      <xmin>763</xmin>
+      <ymin>363</ymin>
+      <xmax>833</xmax>
+      <ymax>487</ymax>
+    </bndbox>
+  </object>
+</annotation>

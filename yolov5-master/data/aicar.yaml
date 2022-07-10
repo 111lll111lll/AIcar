@@ -1,0 +1,9 @@
+# train and val dataset
+train: data/train.txt # train path
+val: data/test.txt # test path
+
+# number of classes
+nc: 6
+
+# class names
+names: ['yellow_back', 'speed_unlimited', 'speed_limited', 'red_stop', 'pedestrian_crossing', 'green_go']

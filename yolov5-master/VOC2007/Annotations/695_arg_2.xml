@@ -1,0 +1,21 @@
+<annotation>
+  <folder>after_argument</folder>
+  <filename>695_arg_2.jpg</filename>
+  <path>695_arg_2.jpg</path>
+  <source/>
+  <database>Unknown</database>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>red_stop</name>
+    <bndbox>
+      <xmin>589</xmin>
+      <ymin>127</ymin>
+      <xmax>717</xmax>
+      <ymax>385</ymax>
+    </bndbox>
+  </object>
+</annotation>

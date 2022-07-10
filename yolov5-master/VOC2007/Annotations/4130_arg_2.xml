@@ -1,0 +1,30 @@
+<annotation>
+  <folder>after_argument</folder>
+  <filename>4130_arg_2.jpg</filename>
+  <path>4130_arg_2.jpg</path>
+  <source/>
+  <database>Unknown</database>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>speed_unlimited</name>
+    <bndbox>
+      <xmin>840</xmin>
+      <ymin>382</ymin>
+      <xmax>922</xmax>
+      <ymax>481</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>yellow_back</name>
+    <bndbox>
+      <xmin>192</xmin>
+      <ymin>313</ymin>
+      <xmax>268</xmax>
+      <ymax>446</ymax>
+    </bndbox>
+  </object>
+</annotation>

@@ -1,0 +1,30 @@
+<annotation>
+  <folder>after_argument</folder>
+  <filename>410_arg_1.jpg</filename>
+  <path>410_arg_1.jpg</path>
+  <source/>
+  <database>Unknown</database>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>pedestrian_crossing</name>
+    <bndbox>
+      <xmin>408</xmin>
+      <ymin>560</ymin>
+      <xmax>634</xmax>
+      <ymax>627</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>green_go</name>
+    <bndbox>
+      <xmin>395</xmin>
+      <ymin>274</ymin>
+      <xmax>485</xmax>
+      <ymax>448</ymax>
+    </bndbox>
+  </object>
+</annotation>

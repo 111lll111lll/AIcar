@@ -1,0 +1,30 @@
+<annotation>
+  <folder>after_argument</folder>
+  <filename>4038_arg_2.jpg</filename>
+  <path>4038_arg_2.jpg</path>
+  <source/>
+  <database>Unknown</database>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>speed_unlimited</name>
+    <bndbox>
+      <xmin>926</xmin>
+      <ymin>154</ymin>
+      <xmax>1123</xmax>
+      <ymax>372</ymax>
+    </bndbox>
+  </object>
+  <object>
+    <name>green_go</name>
+    <bndbox>
+      <xmin>62</xmin>
+      <ymin>315</ymin>
+      <xmax>182</xmax>
+      <ymax>497</ymax>
+    </bndbox>
+  </object>
+</annotation>

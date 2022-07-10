@@ -1,0 +1,21 @@
+<annotation>
+  <folder>after_argument</folder>
+  <filename>301_arg_1.jpg</filename>
+  <path>301_arg_1.jpg</path>
+  <source/>
+  <database>Unknown</database>
+  <size>
+    <width>1280</width>
+    <height>720</height>
+    <depth>3</depth>
+  </size>
+  <object>
+    <name>yellow_back</name>
+    <bndbox>
+      <xmin>606</xmin>
+      <ymin>379</ymin>
+      <xmax>662</xmax>
+      <ymax>477</ymax>
+    </bndbox>
+  </object>
+</annotation>
